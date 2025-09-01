@@ -1,16 +1,12 @@
-# quizzler
+# 🎯 Quiz App Project (C++)
 
-A new Flutter project.
+A **console-based quiz game** built in **C++** that challenges users with multiple-choice questions, tracks their scores, and provides interactive gameplay.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+- ✅ Multiple-choice quiz with various topics
+- ✅ Score tracking and high-score system
+- ✅ Randomized questions for replayability
+- ✅ Simple and interactive console interface
+- ✅ Demonstrates OOP concepts and file handling in C++
